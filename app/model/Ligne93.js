@@ -1,0 +1,33 @@
+Ext.define('GestImmob.model.Ligne93',
+    {
+        extend: 'Ext.data.Model',
+        idProperty: 'id_ligne93',
+        fields: [
+            {name: 'id_ligne93', type: 'int'},
+            {name: 'annee', type: 'string'},
+            {name: 'code_siege', type: 'string'},
+            {name: 'mois_comptable', type: 'string'},
+            {name: 'sequence_93', type: 'string', defaultValue: null, useNull: true},
+            {name: 'code_projet', type: 'string'},
+            {name: 'code_budget', type: 'string'},
+            {name: 'code_compte_analytique', type: 'string'},
+            {name: 'code_origine', type: 'string'},
+            {name: 'groupe', type: 'string'},
+            {name: 'ecriture', type: 'string', defaultValue: null, useNull: true},
+            {name: 'libelle_93', type: 'string', defaultValue: null, useNull: true},
+            {name: 'nature_depense', type: 'string'},
+            {name: 'total_93', type: 'int'},
+            {name: 'compte_general', type: 'string', defaultValue: null, useNull: true},
+            {name: 'num_cmd', type: 'string', defaultValue: null, useNull: true},
+            {name: 'parite', type: 'float', defaultValue: 1},
+            {name: 'num_ordre', type: 'string'},
+            {name: 'num_bord', type: 'string', defaultValue: null, useNull: true},
+            {name: 'etat', type: 'int', defaultValue: 0},
+            {name: 'avancement_vidage', type: 'int', defaultValue: 0},
+            {name: 'vidage_correction', type: 'int', defaultValue: 0},
+            {name: 'cg_modif_comptable', type: 'string', defaultValue: null, useNull: true},
+            {name: 'cg_pertes', type: 'string', defaultValue: null, useNull: true},
+            {name: 'commentaires', type: 'string', defaultValue: null, useNull: true}
+        ]
+    },
+    null);

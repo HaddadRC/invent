@@ -1,0 +1,82 @@
+
+.Titre {
+    font-size: 20px;
+    font-weight: bold;
+    color: #000000;
+    text-align: center;
+    text-decoration: underline;
+
+}
+
+.Titre2 {
+    font-size: 16px;
+    font-weight: bold;
+    color: #000;
+}
+
+.LibZT {
+    font-size: 15px;
+    font-weight: bold;
+    color: #000;
+    text-decoration: underline;
+    text-align: left;
+}
+
+.TexteEntete {
+    font-size: 16px;
+    color: #000;
+    text-align: right;
+}
+
+.TitreTable {
+    font-size: 18px;
+    color: #000;
+    text-align: left;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+h1 {
+    font-size: 28px;
+    font-weight: bold;
+    color: #000;
+}
+
+.rounded {
+    border: 0.5mm solid #000000;
+    border-radius: 2mm;
+    margin: auto; /*centré*/
+}
+
+/* Tables */
+.DataTable {
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+
+.CentredTable {
+    margin: auto;
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+
+.TitreCol {
+    background-color: #edefed;
+    font-weight: bold;
+    font-size: 14px;
+    text-align: center;
+}
+
+.SummaryCol {
+    background-color: #edefed;
+    font-weight: bold;
+    font-size: 14px;
+    text-align: left;
+}
+
+.DonneesTab {
+    font-size: 12px;
+    text-align: center;
+}
+
+/* Fin Table */
