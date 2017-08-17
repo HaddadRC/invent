@@ -1,0 +1,248 @@
+/***** Icones *********/
+.icon-filter {
+    background-image: url(../images/filter.png) !important;
+}
+
+.icon-lock {
+    background-image: url(../images/lock.png) !important;
+}
+
+.icon-filter-delete {
+    background-image: url(../images/filter-delete.png) !important;
+}
+
+.icon-search {
+    background-image: url(../images/search.png) !important;
+}
+
+.icon-edit {
+    background-image: url(../images/edit.png) !important;
+}
+
+.icon-add-doc {
+    background-image: url(../images/add-doc.png) !important;
+}
+
+.icon-calc {
+    background-image: url(../images/calc.png) !important;
+}
+
+.icon-export {
+    background-image: url(../images/export.png) !important;
+}
+
+.icon-import {
+    background-image: url(../images/import.png) !important;
+}
+
+.icon-excel-export {
+    background-image: url(../images/export-excel.png) !important;
+    background-size: 16px 16px;
+}
+
+.icon-excel {
+    background-image: url(../images/excel.png) !important;
+    background-size: 16px 16px;
+}
+
+.icon-affect {
+    background-image: url(../images/affect.png) !important;
+}
+
+.icon-remove-affect {
+    background-image: url(../images/remove-affect.png) !important;
+}
+
+.icon-code {
+    background-image: url(../images/code.png) !important;
+}
+
+.icon-user {
+    background-image: url(../images/user.png) !important;
+}
+
+.icon-user-add {
+    background-image: url(../images/user_add.gif) !important;
+}
+
+.icon-save {
+    background-image: url(../images/save.gif) !important;
+}
+
+.icon-reset {
+    background-image: url(../images/stop.png) !important;
+}
+
+.icon-grid {
+    background-image: url(../images/grid.png) !important;
+}
+
+.icon-add {
+    background-image: url(../images/add.png) !important;
+}
+
+.icon-add-list {
+    background-image: url(../images/add-list.png) !important;
+}
+
+.icon-delete {
+    background-image: url(../images/delete.png) !important;
+}
+
+.icon-refresh {
+    background-image: url(../images/refresh.png) !important;
+}
+
+.icon-cancel {
+    background-image: url(../images/cancel.png) !important;
+}
+
+.icon-accept {
+    background-image: url(../images/accept.png) !important;
+}
+
+.icon-list {
+    background-image: url(../images/list.png) !important;
+}
+
+.icon-stat {
+    background-image: url(../images/stat.png) !important;
+}
+
+.icon-next {
+    background-image: url(../images/next.png) !important;
+}
+
+.icon-prev {
+    background-image: url(../images/prev.png) !important;
+}
+
+.icon-list-go {
+    background-image: url(../images/list-go.png) !important;
+}
+
+.icon-select {
+    background-image: url(../images/select.png) !important;
+}
+
+.icon-label-yellow-16 {
+    background-image: url(../images/label-yellow.png) !important;
+    background-size: 16px 16px;
+}
+
+.generate-line-16 {
+    background-image: url(../images/generate-line-icon.png) !important;
+    background-size: 16px 16px;
+}
+
+.icon-label-yellow-22 {
+    background-image: url(../images/label-yellow.png) !important;
+    background-size: 16px 16px;
+}
+
+.error-icon {
+    background-image: url('../images/error-icon.png') !important;
+    background-repeat: no-repeat;
+    background-size: 42px 42px;
+    background-position: center center;
+}
+
+.warning-icon {
+    background-image: url('../images/warning-icon.png') !important;
+    background-repeat: no-repeat;
+    background-size: 42px 42px;
+    background-position: center center;
+}
+
+.info-icon {
+    background-image: url('../images/info-icon.png') !important;
+    background-repeat: no-repeat;
+    background-size: 42px 42px;
+    background-position: center center;
+}
+
+.question-icon {
+    background-image: url('../images/question-icon.png') !important;
+    background-repeat: no-repeat;
+    background-size: 48px 48px;
+    background-position: center center;
+}
+
+.preload-icon {
+    background-image: url('../images/load.gif') !important;
+    background-repeat: no-repeat;
+    background-size: 32px 32px;
+    background-position: center center;
+}
+
+.tree-icon {
+    background-image: url('../images/tree_diagramm.png') !important;
+    background-repeat: no-repeat;
+    background-size: 18px 18px;
+}
+
+.tree-grey-icon {
+    background-image: url('../images/tree_diagramm_grey.png') !important;
+    background-repeat: no-repeat;
+    background-size: 18px 18px;
+}
+
+.reset-icon {
+    background-image: url('../images/reset.png') !important;
+    background-repeat: no-repeat;
+    background-size: 18px 18px;
+}
+
+.reset-grey-icon {
+    background-image: url('../images/reset_grey.png') !important;
+    background-repeat: no-repeat;
+    background-size: 18px 18px;
+}
+
+.truck-icon {
+    background-image: url('../images/Truck.png') !important;
+    background-repeat: no-repeat;
+    background-size: 18px 18px;
+}
+
+.eye-icon {
+    background-image: url('../images/eye.png') !important;
+    background-repeat: no-repeat;
+    background-size: 18px 18px;
+}
+
+.print-icon-22 {
+    background-image: url('../images/print.png') !important;
+    background-repeat: no-repeat;
+    background-size: 22px 22px;
+}
+
+.print-icon-16 {
+    background-image: url('../images/print.png') !important;
+    background-repeat: no-repeat;
+    background-size: 16px 16px;
+}
+
+.recyle-22 {
+    background-image: url('../images/recyle.png') !important;
+    background-repeat: no-repeat;
+    background-size: 22px 22px;
+}
+
+.help-icon-22 {
+    background-image: url('../images/help-icon.png') !important;
+    background-repeat: no-repeat;
+    background-size: 22px 22px;
+}
+
+.db-export-22 {
+    background-image: url('../images/db_export.png') !important;
+    background-repeat: no-repeat;
+    background-size: 22px 22px;
+}
+
+.db-import-22 {
+    background-image: url('../images/db_import.png') !important;
+    background-repeat: no-repeat;
+    background-size: 22px 22px;
+}

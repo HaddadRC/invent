@@ -1,0 +1,96 @@
+/**** Menu *****/
+/*.btn-menu {*/
+/*height: 35px;*/
+/*text-decoration: underline;*/
+/*font-weight: bold !important;*/
+/*font-size: 52px !important;*/
+/*font-style: italic !important;*/
+/*}*/
+
+.titre-accordion-menu .x-panel-header-text {
+    color: #0b0c16;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+/***** textes *******/
+.titre-fenetre {
+    color: #385d69;
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 18px;
+    background-color: #ffffff;
+    height: 30px;
+    padding: 3px;
+}
+
+/***** Tables *******/
+.x-grid-row-summary {
+    background-color: rgba(40, 115, 255, 0.18) !important;
+    font-weight: bold !important;
+    font-size: 12px !important;
+}
+
+.first-col .x-grid-cell-first {
+    background-color: rgb(228, 230, 228);
+    font-weight: bold !important;
+}
+
+.x-column-header-inner .x-column-header-text {
+    white-space: normal;
+}
+
+.x-column-header-inner {
+    line-height: normal;
+    padding-top: 3px !important;
+    padding-bottom: 3px !important;
+    font-weight: bold !important;
+    font-size: 12px !important;
+    text-align: center !important;
+}
+
+.wrapText .x-grid-cell-inner {
+    white-space: normal;
+}
+
+/***** status bar *****/
+.x-statusbar .x-status-warning {
+    color: #5d4521;
+    padding-left: 25px !important;
+    background: transparent no-repeat 3px 0 url('../images/warning-icon.png');
+    background-size: 16px 16px;
+}
+
+.x-statusbar .x-status-save {
+    color: #2a50b0;
+    padding-left: 25px !important;
+    background: transparent no-repeat 3px 0 url('../images/save.gif');
+    background-size: 16px 16px;
+}
+
+.x-statusbar .x-status-info {
+    color: #2a50b0;
+    padding-left: 25px !important;
+    background: transparent no-repeat 3px 0 url('../images/info-icon.png');
+    background-size: 16px 16px;
+}
+
+/***** radio/check *****/
+.tittre-groupe {
+    color: #0b0c16;
+    font-size: 14px;
+    font-weight: bold;
+    border-bottom: 1px solid #2d415b;
+}
+
+/***** tab panel *****/
+.tab-text-green .x-tab-default .x-tab-inner {
+    color: #206f29 !important;
+}
+
+/***** table layout *****/
+.table-layout-center {
+    text-align: center;
+    vertical-align: top;
+}
